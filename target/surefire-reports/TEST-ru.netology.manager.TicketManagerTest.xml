@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="ru.netology.manager.TicketManagerTest" time="0.1" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="ru.netology.manager.TicketManagerTest" time="0.072" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.13.8-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\user\AppData\Local\Temp\surefire18402761550836252557\surefirebooter3412666518639460922.jar C:\Users\user\AppData\Local\Temp\surefire18402761550836252557 2021-12-27T18-34-00_416-jvmRun1 surefire2489957213834140892tmp surefire_010928088870702084072tmp"/>
+    <property name="sun.java.command" value="C:\Users\user\AppData\Local\Temp\surefire12739323258109220521\surefirebooter1558664284212231812.jar C:\Users\user\AppData\Local\Temp\surefire12739323258109220521 2021-12-27T18-46-17_812-jvmRun1 surefire888137301744932972tmp surefire_05070572826687432500tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\project java\4.2_1\target\test-classes;D:\project java\4.2_1\target\classes;C:\Users\user\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.1\junit-jupiter-5.8.1.jar;C:\Users\user\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.1\junit-jupiter-api-5.8.1.jar;C:\Users\user\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\user\.m2\repository\org\junit\platform\junit-platform-commons\1.8.1\junit-platform-commons-1.8.1.jar;C:\Users\user\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\user\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.1\junit-jupiter-params-5.8.1.jar;C:\Users\user\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.1\junit-jupiter-engine-5.8.1.jar;C:\Users\user\.m2\repository\org\junit\platform\junit-platform-engine\1.8.1\junit-platform-engine-1.8.1.jar;C:\Users\user\.m2\repository\org\projectlombok\lombok\1.18.22\lombok-1.18.22.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\user\AppData\Local\Temp\surefire18402761550836252557\surefirebooter3412666518639460922.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\user\AppData\Local\Temp\surefire12739323258109220521\surefirebooter1558664284212231812.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.13+8"/>
@@ -61,7 +61,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="shouldSearchOneTicket" classname="ru.netology.manager.TicketManagerTest" time="0.068"/>
-  <testcase name="shouldSearchNoOneTicket" classname="ru.netology.manager.TicketManagerTest" time="0"/>
+  <testcase name="shouldSearchOneTicket" classname="ru.netology.manager.TicketManagerTest" time="0.042"/>
+  <testcase name="shouldSearchNoOneTicket" classname="ru.netology.manager.TicketManagerTest" time="0.001"/>
   <testcase name="shouldSearchTwoTicket" classname="ru.netology.manager.TicketManagerTest" time="0"/>
 </testsuite>
